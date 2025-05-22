@@ -1,0 +1,27 @@
+<root>/ << The path to this directory must be specified using the "CV_PATH" argument when running "preprocess.py".
+│
+├── ab/
+│   ├── clips/
+│   ├── train.tsv
+│   │   ...
+│   └── test.tsv
+│   
+├── af/
+│   ├── clips/
+│   ├── train.tsv
+│   │   ...
+│   └── test.tsv
+│
+│   ...
+│
+├── zu/
+│   ├── clips/
+│   ├── train.tsv
+│   │   ...
+│   └── test.tsv
+│
+└── zza/
+    ├── clips/
+    ├── train.tsv
+    │   ...
+    └── test.tsv
