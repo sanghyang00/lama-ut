@@ -1,5 +1,5 @@
 # LAMA-UT: Language Agnostic Multilingual ASR through Orthography Unification and Language-Specific Transliteration (AAAI 2025 Oral Presentation)
-Official Implementation of LAMA-UT: Language Agnostic Multilingual ASR through Orthography Unification and Language-Specific Transliteration
+Official PyTorch Implementation of LAMA-UT: Language Agnostic Multilingual ASR through Orthography Unification and Language-Specific Transliteration
 
 Please note that the dataset itself is not included due to its large size. 
 For the FLUERS dataset, the download code is integrated into the preprocessing script. 
