@@ -47,6 +47,11 @@ Files not detailed here are utilized primarily for declaring or importing functi
 
     Returns
     - Printed pair of ground truth transcription and predicted transcription
+  
+4. Pretrained Checkpoints (25.10.15 update)
+   Pretrained checkpoints are available at https://drive.google.com/drive/folders/1dME5q8SJnK-3ukIJCN41EguxU1zDEX3a?usp=sharing
+   Link consists of four versions: Roman-300m/1b, IPA-300m/1b
+   If access is required, please feel free to email me at sangmin_lee@dsp.yonsei.ac.kr for access, and I will respond as quickly as possible.
 
 To reproduce the results, 
 1. download the CommonVoice dataset, 
